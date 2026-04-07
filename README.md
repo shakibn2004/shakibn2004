@@ -14,23 +14,31 @@
 
 ## 👨‍💻 About Me
 - 🚀 Professional **MERN Stack Developer**
-- 💻 I build modern and scalable web applications
-- 🌱 Currently learning **advanced backend & system design**
-- ⚡ Turning ideas into real-world products
+- 💻 I build modern, scalable & user-friendly web applications
+- 🌱 Currently exploring **Next.js & System Design**
+- 🔭 Working on real-world full-stack projects
+- ⚡ Passionate about clean code & performance
+
+---
+
+## 📍 Contact & Info
+- 📍 Location: Khulna, Bangladesh  
+- 📧 Email: shakibn2004@gmail.com  
 
 ---
 
 ## 🛠️ Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,mongodb,git" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,mongodb,git,github,tailwind,firebase" />
 </p>
 
 ---
 
 ## 🔭 Current Focus
-- Building full-stack applications  
-- Improving DSA & problem solving  
-- Learning scalable architecture  
+- 🚀 Building full-stack MERN applications  
+- 🧠 Improving DSA & problem solving  
+- ⚙️ Learning scalable backend architecture  
+- 🌐 Exploring Next.js  
 
 ---
 
@@ -45,7 +53,6 @@
 
 ---
 
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shakibn2004&show_icons=true&theme=tokyonight" />
@@ -53,15 +60,36 @@
 
 ---
 
-## 🔥 Streak Stats (Fixed)
+## 🔥 Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shakibn2004&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧠 Top Languages (Fixed)
+## 🧠 Top Languages
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shakibn2004&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
+---
+
+## 📌 Pinned Projects
+
+### Assignment 06
+A full-stack MERN app with authentication and responsive design.  
+🌐 Live: [Click here](https://nazmus-shakib.space/Assainment-06-live/).  
+📝 Repo: [Show Code](https://nazmus-shakib.space/Assainment-06-live)  
+🛠 Tech: React, Node.js, MongoDB
+
+### Assignment 05
+A clean frontend web app with interactive components.  
+🌐 Live: [Click here](https://nazmus-shakib.space/Assainment-05/).  
+📝 Repo: [Show Code](https://nazmus-shakib.space/Assainment-05)  
+🛠 Tech: React, Node.js, MongoDB
+
+### Assignment 04
+A beginner-friendly HTML/CSS/JS project.  
+🌐 Live: [Click here](https://nazmus-shakib.space/Assainment-04/).  
+📝 Repo: [Show Code](https://nazmus-shakib.space/Assainment-04)  
+🛠 Tech: React, Node.js, MongoDB
