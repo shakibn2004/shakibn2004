@@ -79,17 +79,17 @@
 ### Assignment 06
 A full-stack MERN app with authentication and responsive design.  
 🌐 Live: [Click here](https://nazmus-shakib.space/Assainment-06-live/).  
-📝 Repo: [Show Code](https://nazmus-shakib.space/Assainment-06-live)  
+📝 Repo: [Show Code](https://github.com/shakibn2004/Assainment-06)  
 🛠 Tech: React, Node.js, MongoDB
 
 ### Assignment 05
 A clean frontend web app with interactive components.  
 🌐 Live: [Click here](https://nazmus-shakib.space/Assainment-05/).  
-📝 Repo: [Show Code](https://nazmus-shakib.space/Assainment-05)  
+📝 Repo: [Show Code](https://github.com/shakibn2004/Assainment-05)  
 🛠 Tech: React, Node.js, MongoDB
 
 ### Assignment 04
 A beginner-friendly HTML/CSS/JS project.  
 🌐 Live: [Click here](https://nazmus-shakib.space/Assainment-04/).  
-📝 Repo: [Show Code](https://nazmus-shakib.space/Assainment-04)  
+📝 Repo: [Show Code](https://github.com/shakibn2004/Assainment-04)  
 🛠 Tech: React, Node.js, MongoDB
