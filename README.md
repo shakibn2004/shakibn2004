@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Md Nazmus Shakib</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;Frontend+Developer;React+Specialist;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=MERN+Stack+Developer;Frontend+Developer;React+Specialist;Always+Learning+New+Things" />
 </p>
 
 ---
