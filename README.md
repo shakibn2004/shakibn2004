@@ -62,12 +62,6 @@
 
 ## 🧠 Top Languages (Fixed)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakibn2004&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shakibn2004&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
----
-
-## 🏆 Achievements (Fixed)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shakibn2004&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
