@@ -38,12 +38,13 @@
 <p align="center">
   <a href="https://github.com/shakibn2004"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.linkedin.com/in/shakibn2004/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://www.facebook.com/shakibn2004"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://www.facebook.com/shakibn2004"><img width="48" height="48" src="https://github.com/user-attachments/assets/9353dc18-0868-4aa3-b90a-0110721c75db" /></a>
   <a href="https://www.instagram.com/shakibn2004/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://twitter.com/shakibn2004"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
 ---
+
 
 ## 📊 GitHub Stats
 <p align="center">
