@@ -88,7 +88,7 @@ A clean frontend web app with interactive components.
 📝 Repo: [Show Code](https://github.com/shakibn2004/Assainment-05)  
 🛠 Tech: React, Node.js, MongoDB
 
-### JOb Application Tracker
+### Job Application Tracker
 A beginner-friendly HTML/CSS/JS project.  
 🌐 Live: [Click here](https://nazmus-shakib.space/Assainment-04/).  
 📝 Repo: [Show Code](https://github.com/shakibn2004/Assainment-04)  
