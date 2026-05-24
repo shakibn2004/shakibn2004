@@ -4,7 +4,7 @@
 </p>
 
 <!-- Animated Name -->
-<h1 align="center">Hi 👋, I'm Md Nazmus Shakib</h1>
+<h1 align="center">Hi, I'm Md Nazmus Shakib</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=MERN+Stack+Developer;Frontend+Developer;React+Specialist;Always+Learning+New+Things" />
@@ -12,37 +12,37 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🚀 Professional **MERN Stack Developer**
-- 💻 I build modern, scalable & user-friendly web applications
-- 🌱 Currently exploring **Next.js & System Design**
-- 🔭 Working on real-world full-stack projects
-- ⚡ Passionate about clean code & performance
+##  About Me
+-  Professional **MERN Stack Developer**
+-  I build modern, scalable & user-friendly web applications
+-  Currently exploring **Next.js & System Design**
+-  Working on real-world full-stack projects
+-  Passionate about clean code & performance
 
 ---
 
-## 📍 Contact & Info
-- 📍 Location: Khulna, Bangladesh  
-- 📧 Email: shakibn2004@gmail.com  
+##  Contact & Info
+-   Location: Khulna, Bangladesh  
+-   Email: shakibn2004@gmail.com  
 
 ---
 
-## 🛠️ Skills
+##  Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,mongodb,git,github,tailwind,firebase" />
 </p>
 
 ---
 
-## 🔭 Current Focus
-- 🚀 Building full-stack MERN applications  
-- 🧠 Improving DSA & problem solving  
-- ⚙️ Learning scalable backend architecture  
-- 🌐 Exploring Next.js  
+##  Current Focus
+-   Building full-stack MERN applications  
+-   Improving DSA & problem solving  
+-   Learning scalable backend architecture  
+-   Exploring Next.js  
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 <p align="center">
   <a href="https://github.com/shakibn2004"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.linkedin.com/in/shakibn2004/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
@@ -53,43 +53,43 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shakibn2004&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shakibn2004&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧠 Top Languages
+## Top Languages
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shakibn2004&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
 
-## 📌 Pinned Projects
+## Pinned Projects
 
 ### AI Tools Shop
 A full-stack MERN app with authentication and responsive design.  
-🌐 Live: [Click here](https://nazmus-shakib.space/Assainment-06-live/).  
-📝 Repo: [Show Code](https://github.com/shakibn2004/Assainment-06)  
-🛠 Tech: React, Node.js, MongoDB
+ Live: [Click here](https://nazmus-shakib.space/Assainment-06-live/).  
+ Repo: [Show Code](https://github.com/shakibn2004/Assainment-06)  
+ Tech: React, Node.js, MongoDB
 
 ### Github Issue Tracker
 A clean frontend web app with interactive components.  
-🌐 Live: [Click here](https://nazmus-shakib.space/Assainment-05/).  
-📝 Repo: [Show Code](https://github.com/shakibn2004/Assainment-05)  
-🛠 Tech: React, Node.js, MongoDB
+ Live: [Click here](https://nazmus-shakib.space/Assainment-05/).  
+ Repo: [Show Code](https://github.com/shakibn2004/Assainment-05)  
+ Tech: React, Node.js, MongoDB
 
 ### Job Application Tracker
 A beginner-friendly HTML/CSS/JS project.  
-🌐 Live: [Click here](https://nazmus-shakib.space/Assainment-04/).  
-📝 Repo: [Show Code](https://github.com/shakibn2004/Assainment-04)  
-🛠 Tech: React, Node.js, MongoDB
+ Live: [Click here](https://nazmus-shakib.space/Assainment-04/).  
+ Repo: [Show Code](https://github.com/shakibn2004/Assainment-04)  
+ Tech: React, Node.js, MongoDB
