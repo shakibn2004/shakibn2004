@@ -78,8 +78,8 @@
 
 ### AI Tools Shop
 A full-stack MERN app with authentication and responsive design.  
- Live: [Click here](https://nazmus-shakib.space/Assainment-06-live/).  
- Repo: [Show Code](https://github.com/shakibn2004/Assainment-06)  
+ Live: [Click here](https://assainment-10-client.vercel.app).  
+ Repo: [Show Code](https://github.com/shakibn2004/Assainment-10)  
  Tech: React, Node.js, MongoDB
 
 ### Github Issue Tracker
