@@ -76,11 +76,11 @@
 
 ## Pinned Projects
 
-### AI Tools Shop
+### BloodBridge
 A full-stack MERN app with authentication and responsive design.  
  Live: [Click here](https://assainment-10-client.vercel.app).  
  Repo: [Show Code](https://github.com/shakibn2004/Assainment-10)  
- Tech: React, Node.js, MongoDB
+ Tech: React, Next.js, Motion, Express, Node.js, MongoDB
 
 ### Github Issue Tracker
 A clean frontend web app with interactive components.  
